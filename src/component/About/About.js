@@ -1,0 +1,9 @@
+import React from 'react'
+
+function About() {
+  return (
+    <div style={{color:"white",textAlign:'center'}}><h1>About</h1></div>
+  )
+}
+
+export default About;
